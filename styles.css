@@ -100,13 +100,10 @@
     text-decoration: underline;
 }
 
-
-
 /*hero secion begins*/
 .hero_section{
     width:90%;
     height:500px;
-    border:1px solid black;
     margin:auto;
     margin-top:25px;
 }
@@ -119,4 +116,8 @@
 .hero_section h1, h2, h3{
     color:rgb(255, 253, 253);
 }
-
+.hero_section a img{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
