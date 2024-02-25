@@ -129,5 +129,9 @@
     text-align:center;
     margin:auto;
     margin-top:15px;
-   
+}
+.cat_options{
+    width:100%;
+    height:80%;
+    border:1px solid black;
 }
